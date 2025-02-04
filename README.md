@@ -1,6 +1,6 @@
 📌 README.md
 
-# Proyecto [Nombre del Proyecto]
+# Proyecto Casa Inteligente
 
 ## 📖 Descripción
 Breve descripción del proyecto, su propósito y funcionalidad.
@@ -16,7 +16,10 @@ Breve descripción del proyecto, su propósito y funcionalidad.
 - Listar los requisitos de hardware y software necesarios.
 
 ## 🚀 Tecnologías Utilizadas
-- Mencionar las herramientas, lenguajes y frameworks empleados.
+
+## 🛠️ Tech Stack
+- 🟢 Node.js - Entorno de ejecución de JavaScript para el backend.
+
 
 ## 👥 Desarrolladores
 - Derek Sesni Carreño  
