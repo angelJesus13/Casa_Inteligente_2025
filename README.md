@@ -18,7 +18,10 @@ Breve descripción del proyecto, su propósito y funcionalidad.
 ## 🚀 Tecnologías Utilizadas
 
 ## 🛠️ Tech Stack
-- 🟢 Node.js - Entorno de ejecución de JavaScript para el backend.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+
+- 🟢 **Node.js** - Entorno de ejecución de JavaScript para el backend.
+
 
 
 ## 👥 Desarrolladores
