@@ -3,11 +3,16 @@
 # Proyecto Casa Inteligente
 
 ## 📖 Descripción
-Breve descripción del proyecto, su propósito y funcionalidad.
+Casa Inteligente Automatizada es un sistema de automatización del hogar basado en IoT, diseñado para mejorar la comodidad, seguridad y eficiencia energética de los usuarios. Integra hardware inteligente con un backend robusto y un frontend intuitivo, permitiendo el control y monitoreo remoto de dispositivos domésticos.
 
 ## 🎯 Objetivo
-- Explicar el objetivo principal del proyecto.
-- Mencionar los beneficios y el impacto esperado.
+- El principal objetivo de este proyecto es desarrollar un ecosistema de automatización para el hogar que permita a los usuarios:
+
+- Controlar luces, electrodomésticos, cerraduras y sensores mediante una aplicación web y móvil.
+
+- Recibir alertas y monitorear el estado de la casa en tiempo real.
+
+
 
 ## 📌 Alcances
 - Definir las características clave y limitaciones del proyecto.
