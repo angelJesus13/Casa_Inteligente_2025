@@ -4,6 +4,9 @@
 Casa Inteligente Automatizada es un sistema de automatización del hogar basado en IoT (Internet de las Cosas), diseñado para mejorar la comodidad, seguridad y eficiencia energética de los usuarios. Integra dispositivos de hardware inteligentes, como luces, electrodomésticos, cerraduras, cámaras de seguridad y sensores, con un backend robusto y un frontend intuitivo. Esto permite a los usuarios controlar y monitorear su hogar de forma remota a través de aplicaciones móviles y web.
 
 ---
+## 🖥️ Logos
+Por definir
+---
 
 ## 🎯 Objetivo
 El objetivo de este proyecto es crear un ecosistema de automatización para el hogar a escala real, que permita a los usuarios:
@@ -63,3 +66,16 @@ El objetivo de este proyecto es crear un ecosistema de automatización para el h
 - **Viabilidad económica:** El costo inicial puede ser alto, especialmente si se requiere una gran cantidad de dispositivos. Sin embargo, los usuarios pueden recuperar su inversión a través de la optimización energética y la seguridad mejorada a largo plazo. Además, si se comercializa como un paquete de soluciones para hogares grandes, el proyecto tiene un buen potencial de rentabilidad.
 - **Escalabilidad:** Es importante diseñar el sistema con una arquitectura que permita añadir más dispositivos en el futuro, a medida que los usuarios amplíen sus hogares o sus necesidades cambien.
 - **Competencia:** Existen competidores en el mercado (como Amazon Alexa, Google Home, y Apple HomeKit), pero un sistema personalizado con un enfoque en la seguridad, eficiencia energética y un control total podría ofrecer ventajas significativas a ciertos usuarios.
+
+## 👩🏼‍🦯 integrantes
+
+| Nombre                          | Rol                     |
+|---------------------------------|-------------------------|
+| Derek Sesni Carreño             | Gestor de Base de Datos, IOT     |
+| Al Farias Leyva                 | Desarrollador Frontend   |
+| Adrian Perez Jimenez            | Desarrollador Backend, IOT  |
+| Angel de Jesus Baños Tellez     | Desarrollador Backend, Documentacion  |
+| Obed Guzman Flores              | Gestor de Base de Datos, IOT |
+| Jose Arturo Garcia Gonzalez     | Gestor de Base de Datos, IOT |
+| Dulce Yadira Salvador Antonio   | Desarrolladora FrontEnd, Conexiones IOT               |
+| Jesus Dominguez Ramirez         | Desarrollador Backend, IOT   |
