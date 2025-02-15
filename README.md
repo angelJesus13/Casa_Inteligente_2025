@@ -69,13 +69,14 @@ El objetivo de este proyecto es crear un ecosistema de automatización para el h
 
 ## 👩🏼‍🦯 integrantes
 
-| Nombre                          | Rol                     |
-|---------------------------------|-------------------------|
-| Derek Sesni Carreño             | Gestor de Base de Datos, IOT     |
-| Al Farias Leyva                 | Desarrollador Frontend   |
-| Adrian Perez Jimenez            | Desarrollador Backend, IOT  |
-| Angel de Jesus Baños Tellez     | Desarrollador Backend, Documentacion  |
-| Obed Guzman Flores              | Gestor de Base de Datos, IOT |
-| Jose Arturo Garcia Gonzalez     | Gestor de Base de Datos, IOT |
-| Dulce Yadira Salvador Antonio   | Desarrolladora FrontEnd, Conexiones IOT               |
-| Jesus Dominguez Ramirez         | Desarrollador Backend, IOT   |
+| Rol                | Integrantes asignados                                                                 |
+|--------------------|---------------------------------------------------------------------------------------|
+| **Líder de Proyecto** | *Por definir*                                                                         |
+| **IoT**            |                                                                                       |
+| Arduino            | Jesús Domínguez Ramírez, Derek Sesni Carreño, Obed Guzmán Flores                      |
+| Conexiones         | José Arturo García González (Preyo), Adrián Pérez Jiménez, Dulce Yadira Salvador Antonio |
+| Backend            | Jesús Domínguez Ramírez, Adrián Pérez Jiménez, Ángel de Jesús Baños Téllez            |
+| Front              | Al Farias Leyva (A1), Dulce Yadira Salvador Antonio (Du1)                             |
+| Base de datos      | Obed Guzmán Flores, Derek Sesni Carreño, José Arturo García González (Preyo)          |
+| Mano de obra       | *Todos los integrantes*                                                               |
+| Documentación      | Ángel de Jesús Baños Téllez                                                           |
