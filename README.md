@@ -72,11 +72,10 @@ El objetivo de este proyecto es crear un ecosistema de automatización para el h
 | Rol                | Integrantes asignados                                                                 |
 |--------------------|---------------------------------------------------------------------------------------|
 | **Líder de Proyecto** | *Por definir*                                                                         |
-| **IoT**            |                                                                                       |
-| Arduino            | Jesús Domínguez Ramírez, Derek Sesni Carreño, Obed Guzmán Flores                      |
-| Conexiones         | José Arturo García González (Preyo), Adrián Pérez Jiménez, Dulce Yadira Salvador Antonio |
+| **IoT**   | Jesús Domínguez Ramírez, Derek Sesni Carreño, Obed Guzmán Flores                      |
+| Conexiones         | José Arturo García González , Adrián Pérez Jiménez, Dulce Yadira Salvador Antonio |
 | Backend            | Jesús Domínguez Ramírez, Adrián Pérez Jiménez, Ángel de Jesús Baños Téllez            |
-| Front              | Al Farias Leyva (A1), Dulce Yadira Salvador Antonio (Du1)                             |
-| Base de datos      | Obed Guzmán Flores, Derek Sesni Carreño, José Arturo García González (Preyo)          |
+| Front              | Al Farias Leyva , Dulce Yadira Salvador Antonio                             |
+| Base de datos      | Obed Guzmán Flores, Derek Sesni Carreño, José Arturo García González           |
 | Mano de obra       | *Todos los integrantes*                                                               |
 | Documentación      | Ángel de Jesús Baños Téllez                                                           |
