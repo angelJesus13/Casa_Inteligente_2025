@@ -5,7 +5,7 @@ Casa Inteligente Automatizada es un sistema de automatización del hogar basado 
 
 ---
 ## 🖥️ Logos
-Por definir
+Por definir.
 ---
 
 ## 🎯 Objetivo
