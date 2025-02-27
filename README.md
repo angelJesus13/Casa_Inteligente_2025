@@ -1,10 +1,10 @@
 # Proyecto Casa Inteligente
 
-##  Descripción
+#  Descripción:
 iHome es un sistema de automatización del hogar basado en IoT (Internet de las Cosas), diseñado para mejorar la comodidad y eficiencia energética de los usuarios. Integra dispositivos de hardware inteligentes, como luces, electrodomésticos, cerraduras y sensores, con un backend robusto y un frontend intuitivo. Esto permite a los usuarios controlar y monitorear su hogar de forma remota a través de aplicaciones móviles y web.
 
 ---
-## Logos
+# Logos
 <p align="center">
   <img src="https://github.com/angelJesus13/Casa_Inteligente_2025/blob/iHome_docs/Assets/iHOME.jpg" width="350">
 </p>
@@ -13,14 +13,14 @@ iHome es un sistema de automatización del hogar basado en IoT (Internet de las 
 Se aceptan sugerencias
 ---
 
-## Objetivo
+# Objetivo:
 El proyecto se desplegará a escala para demostrar su funcionalidad, permitiendo a los usuarios:
 - **Controlar dispositivos inteligentes:** Como luces, electrodomésticos, cerraduras y sensores, desde cualquier lugar a través de aplicaciones móviles o web.
 - **Seguridad mejorada:** Monitoreo en tiempo real mediante alarmas y sensores de movimiento.
 - **Eficiencia energética:** Optimización del uso de energía, programando el encendido/apagado de dispositivos según las necesidades del hogar y el consumo.
 ---
 
-##  Alcances
+#  Alcances:
 ### **Características clave:**
 - **Automatización de dispositivos:** El sistema controlará dispositivos como luces, electrodomésticos y cerraduras estas incluyen ventanas. Los dispositivos deberán ser integrados mediante protocolos como Wi-Fi o Bluetooth.
 
@@ -44,7 +44,7 @@ El proyecto se desplegará a escala para demostrar su funcionalidad, permitiendo
 
 ---
 
-##  Requerimientos para escalado real
+#  Requerimientos para escalado real:
 ### **Hardware:**
 - **Dispositivos IoT:** Luces inteligentes, electrodomésticos compatibles, termostatos, cerraduras inteligentes, cámaras de seguridad, sensores de movimiento, sensores de puertas/ventanas, etc.
   - **Costo estimado:** Los dispositivos IoT suelen variar en precio dependiendo de la marca y el tipo. Por ejemplo:
@@ -79,7 +79,7 @@ Todos los costos especificados en la lista son un aproximado del costo final del
 
 ---
 
-# Viabilidad y Consideraciones Finales  
+# Viabilidad y Consideraciones Finales:  
 
 ## Viabilidad técnica  
 - El proyecto es técnicamente viable con los recursos adecuados, utilizando módulos **Wemos D1 Mini** como controladores principales. La integración de sensores de nivel de agua, actuadores para ventanas y puertas, iluminación inteligente y control de temperatura requiere una programación eficiente y una infraestructura estable de comunicación inalámbrica. Se recomienda utilizar protocolos como **MQTT** para la comunicación entre dispositivos.  
