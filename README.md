@@ -6,8 +6,9 @@ iHome es un sistema de automatización del hogar basado en IoT (Internet de las 
 ---
 ## Logos
 <p align="center">
-  <img src="./Assets/iHome.jpg" width="350">
+  <img src="https://github.com/angelJesus13/Casa_Inteligente_2025/blob/iHome_docs/Assets/iHOME.jpg" width="350">
 </p>
+
 
 Se aceptan sugerencias
 ---
