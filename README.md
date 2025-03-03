@@ -14,9 +14,13 @@ Se aceptan sugerencias
 ---
 
 # Objetivo:
-El proyecto se desplegará a escala para demostrar su funcionalidad, permitiendo a los usuarios:
+Desarrollar e implementar una solución integral de software personalizasa para la automatización de residencias, que permita a los usuarios controlar y monitorear de manera eficiente y segura diversas funciones del hogar, como la apertura de puertas y ventanas, el encendido de luces, la gestioón del clima, y la monitorizacion de parámetros ambietales mediante sensores de humedad, temperatura, presencia y distancia, todo accesinle a través de una plataforma web y una aplicacion web dedicada
+# Objetivos especificos:
+
 - **Controlar dispositivos inteligentes:** Como luces, electrodomésticos, cerraduras y sensores, desde cualquier lugar a través de aplicaciones móviles o web.
+
 - **Seguridad mejorada:** Monitoreo en tiempo real mediante alarmas y sensores de movimiento.
+
 - **Eficiencia energética:** Optimización del uso de energía, programando el encendido/apagado de dispositivos según las necesidades del hogar y el consumo.
 ---
 
